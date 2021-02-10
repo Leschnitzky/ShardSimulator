@@ -1,0 +1,4317 @@
+{
+    "Abbess": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Abbess.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Abbess.json"
+    },
+    "Altan": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Barbarians",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Altan.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Altan.json"
+    },
+    "Angar": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Orcs",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Angar.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Angar.json"
+    },
+    "Arbiter": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "High Elves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Arbiter.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Arbiter.json"
+    },
+    "Astralith": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Dark Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Astralith.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Astralith.json"
+    },
+    "Bad-el-Kazar": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Undead Hordes",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Bad_el_Kazar.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Bad_el_Kazar.json"
+    },
+    "Baron": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Banner Lords",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Baron.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Baron.json"
+    },
+    "Basileus Roanas": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "High Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Basileus_Roanas.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Basileus_Roanas.json"
+    },
+    "Belanor": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "High Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Belanor.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Belanor.json"
+    },
+    "Big ‘Un": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Ogryn Tribes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Big_Un.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Big_Un.json"
+    },
+    "Black Knight": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Banner Lords",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Black_Knight.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Black_Knight.json"
+    },
+    "Blind Seer": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Dark Elves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Blind_Seer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Blind_Seer.json"
+    },
+    "Bloodgorged": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Bloodgorged.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Bloodgorged.json"
+    },
+    "Brakus the Shifter": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Skinwalkers",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Brakus_the_Shifter.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Brakus_the_Shifter.json"
+    },
+    "Bystophus": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Knight Revenant",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Bystophus.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Bystophus.json"
+    },
+    "Candraphon": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Demonspawn",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Candraphon.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Candraphon.json"
+    },
+    "Cillian the Lucky": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Banner Lords",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Cillian_the_Lucky.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Cillian_the_Lucky.json"
+    },
+    "Cruetraxa": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Demonspawn",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Cruetraxa.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Cruetraxa.json"
+    },
+    "Crypt-King Graal": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Undead Hordes",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Crypt_King_Graal.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Crypt_King_Graal.json"
+    },
+    "Cupidus": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Cupidus.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Cupidus.json"
+    },
+    "Dracomorph": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Lizardmen",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Dracomorph.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Dracomorph.json"
+    },
+    "Drexthar Bloodtwin": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Demonspawn",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Drexthar_Bloodtwin.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Drexthar_Bloodtwin.json"
+    },
+    "Drokgul the Gaunt": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Ogryn Tribes",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Drokgul_the_Gaunt.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Drokgul_the_Gaunt.json"
+    },
+    "Duchess Lilitu": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Demonspawn",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Duchess_Lilitu.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Duchess_Lilitu.json"
+    },
+    "Elder Skarg": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Elder_Skarg.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Elder_Skarg.json"
+    },
+    "Elegaius": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Undead Hordes",
+      "role": "support",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Elegaius.json"
+    },
+    "Elenaril": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "High Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Elenaril.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Elenaril.json"
+    },
+    "Errol": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Errol.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Errol.json"
+    },
+    "Foli": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Dark Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Foli.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Foli.json"
+    },
+    "Fu-Shan": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Lizardmen",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Fu_Shan.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Fu_Shan.json"
+    },
+    "Ghostborn": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Dark Elves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Ghostborn.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Ghostborn.json"
+    },
+    "Grohak the Bloodied": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Orcs",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Grohak_the_Bloodied.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Grohak_the_Bloodied.json"
+    },
+    "Gurgoh the Augur": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Ogryn Tribes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Gurgoh_the_Augur.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Gurgoh_the_Augur.json"
+    },
+    "Gurptuk Moss-Beard": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Ogryn Tribes",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Gurptuk_Moss-Beard.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Gurptuk_Moss-Beard.json"
+    },
+    "Hakkorhn Smashlord": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Skinwalkers",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Hakkorhn_Smashlord.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Hakkorhn_Smashlord.json"
+    },
+    "Harvest Jack": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Undead Hordes",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Harvest_Jack.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Harvest_Jack.json"
+    },
+    "Hegemon": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Knight Revenant",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Hegemon.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Hegemon.json"
+    },
+    "Ignatius": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Ogryn Tribes",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Ignatius.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Ignatius.json"
+    },
+    "Inithwe Bloodtwin": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Demonspawn",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Inithwe_Bloodtwin.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Inithwe_Bloodtwin.json"
+    },
+    "Ithos": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "High Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Ithos.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Ithos.json"
+    },
+    "Kantra the Cyclone": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Barbarians",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Kantra_the_Cyclone.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Kantra_the_Cyclone.json"
+    },
+    "Khoronar": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Skinwalkers",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Khoronar.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Khoronar.json"
+    },
+    "Krisk the Ageless": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Lizardmen",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Krisk_the_Ageless.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Krisk_the_Ageless.json"
+    },
+    "Lanakis the Chosen": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Dark Elves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Lanakis_the_Chosen.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Lanakis_the_Chosen.json"
+    },
+    "Little Miss Annie": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Little_Miss_Annie.json"
+    },
+    "Longbeard": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Skinwalkers",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Longbeard.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Longbeard.json"
+    },
+    "Lord Champfort": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Banner Lords",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Lord_Champfort.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Lord_Champfort.json"
+    },
+    "Lord Shazar": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Demonspawn",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Lord_Shazar.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Lord_Shazar.json"
+    },
+    "Lugan the Steadfast": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Banner Lords",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Lugan_the_Steadfast.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Lugan_the_Steadfast.json"
+    },
+    "Lydia the Deathsiren": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Dark Elves",
+      "role": "support",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Lydia_the_Deathsiren.json"
+    },
+    "Lyssandra": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "High Elves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Lyssandra.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Lyssandra.json"
+    },
+    "Ma’Shalled": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/MaShalled.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/MaShalled.json"
+    },
+    "Martyr": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "The Sacred Order",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Martyr.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Martyr.json"
+    },
+    "Masked Fearmonger": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Banner Lords",
+      "role": "attack",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Masked_Fearmonger.json"
+    },
+    "Maulie Tankard": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Dwarves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Maulie_Tankard.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Maulie_Tankard.json"
+    },
+    "Minaya": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Banner Lords",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Minaya.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Minaya.json"
+    },
+    "Mortu-Macaab": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Demonspawn",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Mortu_Macaab.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Mortu_Macaab.json"
+    },
+    "Mountain King": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Dwarves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Mountain_King.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Mountain_King.json"
+    },
+    "Narma the Returned": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Knight Revenant",
+      "role": "support",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Narma_the_Returned.json"
+    },
+    "Nethril": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Nethril.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Nethril.json"
+    },
+    "Norog": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Skinwalkers",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Norog.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Norog.json"
+    },
+    "Prince Kymar": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Demonspawn",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Prince_Kymar.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Prince_Kymar.json"
+    },
+    "Queen Eva": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Dark Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Queen_Eva.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Queen_Eva.json"
+    },
+    "Rae": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Dark Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Rae.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Rae.json"
+    },
+    "Raglin": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Banner Lords",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Raglin.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Raglin.json"
+    },
+    "Rhazin Scarhide": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Lizardmen",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Rhazin_Scarhide.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Rhazin_Scarhide.json"
+    },
+    "Richtoff the Bold": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Banner Lords",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Richtoff_the_Bold.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Richtoff_the_Bold.json"
+    },
+    "Robar": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Orcs",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Robar.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Robar.json"
+    },
+    "Roshcard the Tower": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "The Sacred Order",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Roshcard_the_Tower.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Roshcard_the_Tower.json"
+    },
+    "Rotos the Lost Groom": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Rotos_the_Lost_Groom.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Rotos_the_Lost_Groom.json"
+    },
+    "Royal Huntsman": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "High Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Royal_Huntsman.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Royal_Huntsman.json"
+    },
+    "Saito": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Saito.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Saito.json"
+    },
+    "Scyl of the Drakes": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Barbarians",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Scyl_of_the_Drakes.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Scyl_of_the_Drakes.json"
+    },
+    "Septimus": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Banner Lords",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Septimus.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Septimus.json"
+    },
+    "Sethallia": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Banner Lords",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Sethallia.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Sethallia.json"
+    },
+    "Shamrock": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Ogryn Tribes",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Shamrock.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Shamrock.json"
+    },
+    "Shirimani": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "High Elves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Shirimani.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Shirimani.json"
+    },
+    "Siphi the Lost Bride": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Undead Hordes",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Siphi_the_Lost_Bride.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Siphi_the_Lost_Bride.json"
+    },
+    "Sir Nicholas": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "The Sacred Order",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Sir_Nicholas.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Sir_Nicholas.json"
+    },
+    "Skartorsis": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Undead Hordes",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Skartorsis.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Skartorsis.json"
+    },
+    "Skull Lord Var-Gall": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Lizardmen",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Skull_Lord_Var_Gall.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Skull_Lord_Var_Gall.json"
+    },
+    "Soulless": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Knight Revenant",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Soulless.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Soulless.json"
+    },
+    "Suzerain Katonn": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Suzerain_Katonn.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Suzerain_Katonn.json"
+    },
+    "Teela Goremane": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Orcs",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Teela_Goremane.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Teela_Goremane.json"
+    },
+    "Tomb Lord": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Knight Revenant",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Tomb_Lord.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Tomb_Lord.json"
+    },
+    "Tormin the Cold": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Dwarves",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Tormin_the_Cold.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Tormin_the_Cold.json"
+    },
+    "Trunda Giltmallet": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Dwarves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Trunda_Giltmallet.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Trunda_Giltmallet.json"
+    },
+    "Turvold": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Turvold.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Turvold.json"
+    },
+    "Tyrant Ixlimor": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Demonspawn",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Tyrant_Ixlimor.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Tyrant_Ixlimor.json"
+    },
+    "Ursuga Warcaller": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Barbarians",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Ursuga_Warcaller.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Ursuga_Warcaller.json"
+    },
+    "Valkyrie": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Barbarians",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Valkyrie.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Valkyrie.json"
+    },
+    "Venus": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "The Sacred Order",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Venus.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Venus.json"
+    },
+    "Vergumkaar": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Lizardmen",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Vergumkaar.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Vergumkaar.json"
+    },
+    "Visix the Unbowed": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Dark Elves",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Visix_the_Unbowed.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Visix_the_Unbowed.json"
+    },
+    "Vizier Ovelis": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Dark Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Vizier_Ovelis.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Vizier_Ovelis.json"
+    },
+    "War Mother": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Ogryn Tribes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/War_Mother.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/War_Mother.json"
+    },
+    "Warchief": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Skinwalkers",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Warchief.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Warchief.json"
+    },
+    "Warlord": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Orcs",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Warlord.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Warlord.json"
+    },
+    "Wurlim Frostking": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Knight Revenant",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Wurlim_Frostking.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Wurlim_Frostking.json"
+    },
+    "Yannica": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "High Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Yannica.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Yannica.json"
+    },
+    "Zavia": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Dark Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Zavia.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Zavia.json"
+    },
+    "Adriel": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "The Sacred Order",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Adriel.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Adriel.json"
+    },
+    "Aina": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Aina.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Aina.json"
+    },
+    "Alika": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Alika.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Alika.json"
+    },
+    "Alure": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Demonspawn",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Alure.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Alure.json"
+    },
+    "Aothar": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Aothar.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Aothar.json"
+    },
+    "Atur": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Barbarians",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Atur.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Atur.json"
+    },
+    "Azure": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Banner Lords",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Azure.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Azure.json"
+    },
+    "Baerdal Fellhammer": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Dwarves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Baerdal_Fellhammer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Baerdal_Fellhammer.json"
+    },
+    "Baroth the Bloodsoaked": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Barbarians",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Baroth_the_Bloodsoaked.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Baroth_the_Bloodsoaked.json"
+    },
+    "Basher": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Skinwalkers",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Basher.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Basher.json"
+    },
+    "Basilisk": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Lizardmen",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Basilisk.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Basilisk.json"
+    },
+    "Battlesage": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "High Elves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Battlesage.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Battlesage.json"
+    },
+    "Bloodfeather": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Orcs",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Bloodfeather.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Bloodfeather.json"
+    },
+    "Bonekeeper": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Orcs",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Bonekeeper.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Bonekeeper.json"
+    },
+    "Broadmaw": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Lizardmen",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Broadmaw.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Broadmaw.json"
+    },
+    "Bushi": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Bushi.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Bushi.json"
+    },
+    "Cagebreaker": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Ogryn Tribes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Cagebreaker.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Cagebreaker.json"
+    },
+    "Canoness": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "The Sacred Order",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Canoness.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Canoness.json"
+    },
+    "Captain Temila": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Dark Elves",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Captain_Temila.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Captain_Temila.json"
+    },
+    "Cardinal": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "The Sacred Order",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Cardinal.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Cardinal.json"
+    },
+    "Catacomb Councilor": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Catacomb_Councilor.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Catacomb_Councilor.json"
+    },
+    "Corpse Collector": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Undead Hordes",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Corpse_Collector.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Corpse_Collector.json"
+    },
+    "Crimson Helm": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Dark Elves",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Crimson_Helm.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Crimson_Helm.json"
+    },
+    "Crypt Witch": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Knight Revenant",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Crypt_Witch.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Crypt_Witch.json"
+    },
+    "Dark Athel": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Dark_Athel.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Dark_Athel.json"
+    },
+    "Dark Elhain": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Dark_Elhain.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Dark_Elhain.json"
+    },
+    "Deathless": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Knight Revenant",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Deathless.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Deathless.json"
+    },
+    "Defiled Sinner": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Defiled_Sinner.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Defiled_Sinner.json"
+    },
+    "Delver": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Dark Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Delver.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Delver.json"
+    },
+    "Doompriest": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Knight Revenant",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Doompriest.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Doompriest.json"
+    },
+    "Drake": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Lizardmen",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Drake.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Drake.json"
+    },
+    "Erinyes": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Demonspawn",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Erinyes.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Erinyes.json"
+    },
+    "Excruciator": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Demonspawn",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Excruciator.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Excruciator.json"
+    },
+    "Exemplar": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "High Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Exemplar.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Exemplar.json"
+    },
+    "Faceless": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Knight Revenant",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Faceless.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Faceless.json"
+    },
+    "Fang Cleric": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Dark Elves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Fang_Cleric.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Fang_Cleric.json"
+    },
+    "Fayne": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Skinwalkers",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Fayne.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Fayne.json"
+    },
+    "Fenax": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Fenax.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Fenax.json"
+    },
+    "Flesh-Tearer": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Skinwalkers",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Flesh_Tearer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Flesh_Tearer.json"
+    },
+    "Frostbringer": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "The Sacred Order",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Frostbringer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Frostbringer.json"
+    },
+    "Gala Longbraids": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Dwarves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Gala_Longbraids.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Gala_Longbraids.json"
+    },
+    "Galkut": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Ogryn Tribes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Galkut.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Galkut.json"
+    },
+    "Ghrush the Mangler": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Ogryn Tribes",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Ghrush_the_Mangler.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Ghrush_the_Mangler.json"
+    },
+    "Golden Reaper": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Knight Revenant",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Golden_Reaper.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Golden_Reaper.json"
+    },
+    "Gorgorab": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Undead Hordes",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Gorgorab.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Gorgorab.json"
+    },
+    "Grimskin": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Ogryn Tribes",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Grimskin.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Grimskin.json"
+    },
+    "Grizzled Jarl": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Dwarves",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Grizzled_Jarl.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Grizzled_Jarl.json"
+    },
+    "Hellgazer": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Demonspawn",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Hellgazer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Hellgazer.json"
+    },
+    "Hexia": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Hexia.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Hexia.json"
+    },
+    "High Khatun": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Barbarians",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/High_Khatun.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/High_Khatun.json"
+    },
+    "Hope": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "The Sacred Order",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Hope.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Hope.json"
+    },
+    "Hordin": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Banner Lords",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Hordin.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Hordin.json"
+    },
+    "Husk": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Undead Hordes",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Husk.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Husk.json"
+    },
+    "Infernal Baroness": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Demonspawn",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Infernal_Baroness.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Infernal_Baroness.json"
+    },
+    "Jarang": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Lizardmen",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Jarang.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Jarang.json"
+    },
+    "Jareg": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Lizardmen",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Jareg.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Jareg.json"
+    },
+    "Jinglehunter": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "High Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Jinglehunter.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Jinglehunter.json"
+    },
+    "Jizoh": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Lizardmen",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Jizoh.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Jizoh.json"
+    },
+    "Jotun": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Barbarians",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Jotun.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Jotun.json"
+    },
+    "Juliana": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Juliana.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Juliana.json"
+    },
+    "Kaiden": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Dark Elves",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Kaiden.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Kaiden.json"
+    },
+    "Kallia": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Kallia.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Kallia.json"
+    },
+    "Karam": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Karam.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Karam.json"
+    },
+    "Knight-Errant": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Banner Lords",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Knight_Errant.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Knight_Errant.json"
+    },
+    "Kytis": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Knight Revenant",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Kytis.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Kytis.json"
+    },
+    "Lady Etessa": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Lady_Etessa.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Lady_Etessa.json"
+    },
+    "Lich": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Undead Hordes",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Lich.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Lich.json"
+    },
+    "Lightsworn": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "The Sacred Order",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Lightsworn.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Lightsworn.json"
+    },
+    "Lordly Legionary": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Banner Lords",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Lordly_Legionary.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Lordly_Legionary.json"
+    },
+    "Lua": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Dark Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Lua.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Lua.json"
+    },
+    "Luria": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Dark Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Luria.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Luria.json"
+    },
+    "Luthiea": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "High Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Luthiea.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Luthiea.json"
+    },
+    "Madame Serris": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Dark Elves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Madame_Serris.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Madame_Serris.json"
+    },
+    "Maeve": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Maeve.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Maeve.json"
+    },
+    "Maneater": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Ogryn Tribes",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Maneater.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Maneater.json"
+    },
+    "Marksman": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "High Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Marksman.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Marksman.json"
+    },
+    "Mausoleum Mage": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Undead Hordes",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Mausoleum_Mage.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Mausoleum_Mage.json"
+    },
+    "Miscreated Monster": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Knight Revenant",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Miscreated_Monster.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Miscreated_Monster.json"
+    },
+    "Missionary": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "The Sacred Order",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Missionary.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Missionary.json"
+    },
+    "Mistress of Hymns": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "The Sacred Order",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Mistress_of_Hymns.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Mistress_of_Hymns.json"
+    },
+    "Nazana": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Demonspawn",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Nazana.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Nazana.json"
+    },
+    "Necrohunter": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Knight Revenant",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Necrohunter.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Necrohunter.json"
+    },
+    "Oathbound": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Banner Lords",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Oathbound.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Oathbound.json"
+    },
+    "Occult Brawler": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Ogryn Tribes",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Occult_Brawler.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Occult_Brawler.json"
+    },
+    "Peydma": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Demonspawn",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Peydma.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Peydma.json"
+    },
+    "Pitiless One": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Knight Revenant",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Pitiless_One.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Pitiless_One.json"
+    },
+    "Psylar": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Dark Elves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Psylar.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Psylar.json"
+    },
+    "Rearguard Sergeant": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Dwarves",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Rearguard_Sergeant.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Rearguard_Sergeant.json"
+    },
+    "Reinbeast": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Skinwalkers",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Reinbeast.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Reinbeast.json"
+    },
+    "Relickeeper": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Relickeeper.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Relickeeper.json"
+    },
+    "Ripper": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Skinwalkers",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Ripper.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Ripper.json"
+    },
+    "Rock Breaker": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Dwarves",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Rock_Breaker.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Rock_Breaker.json"
+    },
+    "Romero": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "The Sacred Order",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Romero.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Romero.json"
+    },
+    "Rowan": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Banner Lords",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Rowan.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Rowan.json"
+    },
+    "Royal Guard": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "High Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Royal_Guard.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Royal_Guard.json"
+    },
+    "Sandlashed Survivor": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Orcs",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Sandlashed_Survivor.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Sandlashed_Survivor.json"
+    },
+    "Seeker": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Undead Hordes",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Seeker.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Seeker.json"
+    },
+    "Seer": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Orcs",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Seer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Seer.json"
+    },
+    "Seneschal": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Banner Lords",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Seneschal.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Seneschal.json"
+    },
+    "Sepulcher Sentinel": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Knight Revenant",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Sepulcher_Sentinel.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Sepulcher_Sentinel.json"
+    },
+    "Shaman": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Orcs",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Shaman.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Shaman.json"
+    },
+    "Shatterbones": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Ogryn Tribes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Shatterbones.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Shatterbones.json"
+    },
+    "Sikara": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Barbarians",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Sikara.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Sikara.json"
+    },
+    "Sinesha": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Knight Revenant",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Sinesha.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Sinesha.json"
+    },
+    "Skullcrown": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Knight Revenant",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Skullcrown.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Skullcrown.json"
+    },
+    "Skullcrusher": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Ogryn Tribes",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Skullcrusher.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Skullcrusher.json"
+    },
+    "Skytouched Shaman": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Barbarians",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Skytouched_Shaman.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Skytouched_Shaman.json"
+    },
+    "Snorting Thug": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Skinwalkers",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Snorting_Thug.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Snorting_Thug.json"
+    },
+    "Souldrinker": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Demonspawn",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Souldrinker.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Souldrinker.json"
+    },
+    "Spider": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Dark Elves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Spider.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Spider.json"
+    },
+    "Stag Knight": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Banner Lords",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Stag_Knight.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Stag_Knight.json"
+    },
+    "Steelskull": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Skinwalkers",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Steelskull.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Steelskull.json"
+    },
+    "Suwai Firstborn": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Suwai_Firstborn.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Suwai_Firstborn.json"
+    },
+    "Tainix Hateflower": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Demonspawn",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Tainix_Hateflower.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Tainix_Hateflower.json"
+    },
+    "Tallia": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Tallia.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Tallia.json"
+    },
+    "Taurus": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Skinwalkers",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Taurus.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Taurus.json"
+    },
+    "Tayrel": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "High Elves",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Tayrel.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Tayrel.json"
+    },
+    "Terrorbeast": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Orcs",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Terrorbeast.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Terrorbeast.json"
+    },
+    "Teshada": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Barbarians",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Teshada.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Teshada.json"
+    },
+    "Thenasil": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "High Elves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Thenasil.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Thenasil.json"
+    },
+    "Torturehelm": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Orcs",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Torturehelm.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Torturehelm.json"
+    },
+    "Towering Titan": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Ogryn Tribes",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Towering_Titan.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Towering_Titan.json"
+    },
+    "Tuhak the Wanderer": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Orcs",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Tuhak_the_Wanderer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Tuhak_the_Wanderer.json"
+    },
+    "Ultimate Galek": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Orcs",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Ultimate_Galek.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Ultimate_Galek.json"
+    },
+    "Umbral Enchantress": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Demonspawn",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Umbral_Enchantress.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Umbral_Enchantress.json"
+    },
+    "Ursine Icecrusher": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Skinwalkers",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Ursine_Icecrusher.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Ursine_Icecrusher.json"
+    },
+    "Ursine Ironhide": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Skinwalkers",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Ursine_Ironhide.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Ursine_Ironhide.json"
+    },
+    "Valla": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Barbarians",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Valla.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Valla.json"
+    },
+    "Vergis": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "High Elves",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Vergis.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Vergis.json"
+    },
+    "Vrask": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Orcs",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Vrask.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Vrask.json"
+    },
+    "Warcaster": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Banner Lords",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Warcaster.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Warcaster.json"
+    },
+    "Warden": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Dark Elves",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Warden.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Warden.json"
+    },
+    "Whisper": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Knight Revenant",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Whisper.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Whisper.json"
+    },
+    "Woad-Painted": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Barbarians",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Woad_Painted.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Woad_Painted.json"
+    },
+    "Yaga the Insatiable": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Skinwalkers",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Yaga_the_Insatiable.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Yaga_the_Insatiable.json"
+    },
+    "Zargala": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Orcs",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Zargala.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Zargala.json"
+    },
+    "Zelotah": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Undead Hordes",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Zelotah.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Zelotah.json"
+    },
+    "Acolyte": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Knight Revenant",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Acolyte.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Acolyte.json"
+    },
+    "Adjudicator": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "High Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Adjudicator.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Adjudicator.json"
+    },
+    "Amarantine Skeleton": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Undead Hordes",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Amarantine_Skeleton.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Amarantine_Skeleton.json"
+    },
+    "Anointed": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Barbarians",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Anointed.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Anointed.json"
+    },
+    "Apothecary": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "High Elves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Apothecary.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Apothecary.json"
+    },
+    "Arbalester": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Arbalester.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Arbalester.json"
+    },
+    "Arcanist": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Knight Revenant",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Arcanist.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Arcanist.json"
+    },
+    "Athel": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Athel.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Athel.json"
+    },
+    "Avenger": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "High Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Avenger.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Avenger.json"
+    },
+    "Avir the Alchemage": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Dwarves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Avir_the_Alchemage.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Avir_the_Alchemage.json"
+    },
+    "Banshee": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Undead Hordes",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Banshee.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Banshee.json"
+    },
+    "Beast Wrestler": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Dwarves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Beast_Wrestler.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Beast_Wrestler.json"
+    },
+    "Bellower": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Ogryn Tribes",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Bellower.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Bellower.json"
+    },
+    "Berserker": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Berserker.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Berserker.json"
+    },
+    "Bloodbraid": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Barbarians",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Bloodbraid.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Bloodbraid.json"
+    },
+    "Bloodhorn": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Skinwalkers",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Bloodhorn.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Bloodhorn.json"
+    },
+    "Bloodpainter": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Skinwalkers",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Bloodpainter.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Bloodpainter.json"
+    },
+    "Bogwalker": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Lizardmen",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Bogwalker.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Bogwalker.json"
+    },
+    "Bombardier": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Banner Lords",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Bombardier.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Bombardier.json"
+    },
+    "Bone Knight": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Bone_Knight.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Bone_Knight.json"
+    },
+    "Bulwark": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Dwarves",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Bulwark.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Bulwark.json"
+    },
+    "Cataphract": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Banner Lords",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Cataphract.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Cataphract.json"
+    },
+    "Centurion": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Knight Revenant",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Centurion.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Centurion.json"
+    },
+    "Channeler": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Skinwalkers",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Channeler.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Channeler.json"
+    },
+    "Chaplain": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "The Sacred Order",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Chaplain.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Chaplain.json"
+    },
+    "Chevalier": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Banner Lords",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Chevalier.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Chevalier.json"
+    },
+    "Chopper": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Orcs",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Chopper.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Chopper.json"
+    },
+    "Coffin Smasher": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Knight Revenant",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Coffin_Smasher.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Coffin_Smasher.json"
+    },
+    "Coldheart": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Dark Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Coldheart.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Coldheart.json"
+    },
+    "Confessor": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Confessor.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Confessor.json"
+    },
+    "Conquerer": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Banner Lords",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Conquerer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Conquerer.json"
+    },
+    "Corpulent Cadaver": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Undead Hordes",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Corpulent_Cadaver.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Corpulent_Cadaver.json"
+    },
+    "Courtier": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Banner Lords",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Courtier.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Courtier.json"
+    },
+    "Crimson Slayer": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Knight Revenant",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Crimson_Slayer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Crimson_Slayer.json"
+    },
+    "Crossbowman": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Banner Lords",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Crossbowman.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Crossbowman.json"
+    },
+    "Cudgeler": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Dwarves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Cudgeler.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Cudgeler.json"
+    },
+    "Daywalker": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Knight Revenant",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Daywalker.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Daywalker.json"
+    },
+    "Deathchanter": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Orcs",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Deathchanter.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Deathchanter.json"
+    },
+    "Diabolist": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Demonspawn",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Diabolist.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Diabolist.json"
+    },
+    "Dilgol": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Dwarves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Dilgol.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Dilgol.json"
+    },
+    "Dolor Lorekeeper": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Dwarves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Dolor_Lorekeeper.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Dolor_Lorekeeper.json"
+    },
+    "Doomscreech": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Undead Hordes",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Doomscreech.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Doomscreech.json"
+    },
+    "Draconis": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "The Sacred Order",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Draconis.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Draconis.json"
+    },
+    "Drowned Bloatwraith": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Drowned_Bloatwraith.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Drowned_Bloatwraith.json"
+    },
+    "Dunestrider": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Dunestrider.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Dunestrider.json"
+    },
+    "Elder": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Barbarians",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Elder.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Elder.json"
+    },
+    "Elhain": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "High Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Elhain.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Elhain.json"
+    },
+    "Eviscerator": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Dark Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Eviscerator.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Eviscerator.json"
+    },
+    "Executioner": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Knight Revenant",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Executioner.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Executioner.json"
+    },
+    "Fellhound": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Demonspawn",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Fellhound.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Fellhound.json"
+    },
+    "Fencer": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "High Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Fencer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Fencer.json"
+    },
+    "Flesheater": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Ogryn Tribes",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Flesheater.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Flesheater.json"
+    },
+    "Fleshmonger": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Skinwalkers",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Fleshmonger.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Fleshmonger.json"
+    },
+    "Flinger": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Lizardmen",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Flinger.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Flinger.json"
+    },
+    "Fortress Goon": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Ogryn Tribes",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Fortress_Goon.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Fortress_Goon.json"
+    },
+    "Frozen Banshee": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Frozen_Banshee.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Frozen_Banshee.json"
+    },
+    "Furystoker": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Ogryn Tribes",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Furystoker.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Furystoker.json"
+    },
+    "Galek": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Orcs",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Galek.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Galek.json"
+    },
+    "Gator": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Lizardmen",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Gator.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Gator.json"
+    },
+    "Ghoulish Ranger": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Ghoulish_Ranger.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Ghoulish_Ranger.json"
+    },
+    "Gladiator": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Knight Revenant",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Gladiator.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Gladiator.json"
+    },
+    "Gloril_Brutebane": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Dwarves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Gloril_Brutebane.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Gloril_Brutebane.json"
+    },
+    "Gnarlhorn": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Skinwalkers",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Gnarlhorn.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Gnarlhorn.json"
+    },
+    "Goremask": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Orcs",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Goremask.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Goremask.json"
+    },
+    "Grandmaster": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Banner Lords",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Grandmaster.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Grandmaster.json"
+    },
+    "Grappler": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Skinwalkers",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Grappler.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Grappler.json"
+    },
+    "Gravechill Killer": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Gravechill_Killer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Gravechill_Killer.json"
+    },
+    "Graybeard": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Skinwalkers",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Graybeard.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Graybeard.json"
+    },
+    "Grinner": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Undead Hordes",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Grinner.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Grinner.json"
+    },
+    "Grumbler": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Dwarves",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Grumbler.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Grumbler.json"
+    },
+    "Guardian": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Knight Revenant",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Guardian.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Guardian.json"
+    },
+    "Halberdier": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Banner Lords",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Halberdier.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Halberdier.json"
+    },
+    "Harrier": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Harrier.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Harrier.json"
+    },
+    "Haruspex": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Lizardmen",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Haruspex.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Haruspex.json"
+    },
+    "Harvester": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Dark Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Harvester.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Harvester.json"
+    },
+    "Hatchet Slinger": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Dwarves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Hatchet_Slinger.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Hatchet_Slinger.json"
+    },
+    "Headsman": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Headsman.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Headsman.json"
+    },
+    "Heiress": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "High Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Heiress.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Heiress.json"
+    },
+    "Hellfang": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Demonspawn",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Hellfang.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Hellfang.json"
+    },
+    "Hexweaver": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Dark Elves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Hexweaver.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Hexweaver.json"
+    },
+    "Hill Nomad": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Barbarians",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Hill_Nomad.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Hill_Nomad.json"
+    },
+    "Hollow": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Hollow.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Hollow.json"
+    },
+    "Honor Guard": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Dwarves",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Honor_Guard.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Honor_Guard.json"
+    },
+    "Hospitaller": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "The Sacred Order",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Hospitaller.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Hospitaller.json"
+    },
+    "Hound Spawn": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Demonspawn",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Hound_Spawn.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Hound_Spawn.json"
+    },
+    "Huntress": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Orcs",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Huntress.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Huntress.json"
+    },
+    "Hurler": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Lizardmen",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Hurler.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Hurler.json"
+    },
+    "Hyria": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "High Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Hyria.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Hyria.json"
+    },
+    "Ifrit": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Demonspawn",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Ifrit.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Ifrit.json"
+    },
+    "Interceptor": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "High Elves",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Interceptor.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Interceptor.json"
+    },
+    "Ironclad": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Orcs",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Ironclad.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Ironclad.json"
+    },
+    "Judge": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Dark Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Judge.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Judge.json"
+    },
+    "Judicator": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Judicator.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Judicator.json"
+    },
+    "Justiciar": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "The Sacred Order",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Justiciar.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Justiciar.json"
+    },
+    "Kael": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Dark Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Kael.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Kael.json"
+    },
+    "Lamellar": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "The Sacred Order",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Lamellar.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Lamellar.json"
+    },
+    "Madman": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Dwarves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Madman.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Madman.json"
+    },
+    "Magister": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "High Elves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Magister.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Magister.json"
+    },
+    "Magmablood": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Ogryn Tribes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Magmablood.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Magmablood.json"
+    },
+    "Magus": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Knight Revenant",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Magus.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Magus.json"
+    },
+    "Maiden": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Maiden.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Maiden.json"
+    },
+    "Malbranche": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Demonspawn",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Malbranche.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Malbranche.json"
+    },
+    "Marked": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Barbarians",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Marked.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Marked.json"
+    },
+    "Marquess": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Demonspawn",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Marquess.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Marquess.json"
+    },
+    "Marquis": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Demonspawn",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Marquis.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Marquis.json"
+    },
+    "Master Butcher": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Dwarves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Master_Butcher.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Master_Butcher.json"
+    },
+    "Metalshaper": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Lizardmen",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Metalshaper.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Metalshaper.json"
+    },
+    "Mother Superior": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "The Sacred Order",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Mother_Superior.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Mother_Superior.json"
+    },
+    "Muckstalker": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Lizardmen",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Muckstalker.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Muckstalker.json"
+    },
+    "Myrmidon": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Banner Lords",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Myrmidon.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Myrmidon.json"
+    },
+    "Mystic Hand": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Dark Elves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Mystic_Hand.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Mystic_Hand.json"
+    },
+    "Ogryn Jailer": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Ogryn Tribes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Ogryn_Jailer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Ogryn_Jailer.json"
+    },
+    "Ox": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Ox.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Ox.json"
+    },
+    "Pain Keeper": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Dark Elves",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Pain_Keeper.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Pain_Keeper.json"
+    },
+    "Painsmith": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Dwarves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Painsmith.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Painsmith.json"
+    },
+    "Paragon": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Dark Elves",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Paragon.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Paragon.json"
+    },
+    "Penitent": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "The Sacred Order",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Penitent.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Penitent.json"
+    },
+    "Perforator": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Dwarves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Perforator.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Perforator.json"
+    },
+    "Pounder": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Ogryn Tribes",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Pounder.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Pounder.json"
+    },
+    "Preserver": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Banner Lords",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Preserver.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Preserver.json"
+    },
+    "Purgator": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Purgator.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Purgator.json"
+    },
+    "Quaestor": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Banner Lords",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Quaestor.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Quaestor.json"
+    },
+    "Ragemonger": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Ragemonger.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Ragemonger.json"
+    },
+    "Raider": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Orcs",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Raider.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Raider.json"
+    },
+    "Reliquary Tender": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "High Elves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Reliquary_Tender.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Reliquary_Tender.json"
+    },
+    "Renegade": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Knight Revenant",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Renegade.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Renegade.json"
+    },
+    "Renouncer": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Renouncer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Renouncer.json"
+    },
+    "Retainer": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Dark Elves",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Retainer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Retainer.json"
+    },
+    "Ripperfist": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Orcs",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Ripperfist.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Ripperfist.json"
+    },
+    "Rocktooth": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Ogryn Tribes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Rocktooth.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Rocktooth.json"
+    },
+    "Rotting Mage": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Undead Hordes",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Rotting_Mage.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Rotting_Mage.json"
+    },
+    "Runic Warder": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Dwarves",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Runic_Warder.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Runic_Warder.json"
+    },
+    "Sanctum Protector": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "The Sacred Order",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Sanctum_Protector.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Sanctum_Protector.json"
+    },
+    "Seducer": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Undead Hordes",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Seducer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Seducer.json"
+    },
+    "Sentinel": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Barbarians",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Sentinel.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Sentinel.json"
+    },
+    "Siegebreaker": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Ogryn Tribes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Siegebreaker.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Siegebreaker.json"
+    },
+    "Skink": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Lizardmen",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Skink.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Skink.json"
+    },
+    "Skirmisher": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Skirmisher.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Skirmisher.json"
+    },
+    "Skullsworn": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Lizardmen",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Skullsworn.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Skullsworn.json"
+    },
+    "Slasher": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Lizardmen",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Slasher.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Slasher.json"
+    },
+    "Slayer": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Slayer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Slayer.json"
+    },
+    "Slitherbrute": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Lizardmen",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Slitherbrute.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Slitherbrute.json"
+    },
+    "Solaris": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Solaris.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Solaris.json"
+    },
+    "Sorceress": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Sorceress.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Sorceress.json"
+    },
+    "Soulbond Bowyer": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Soulbond_Bowyer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Soulbond_Bowyer.json"
+    },
+    "Spikehead": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Orcs",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Spikehead.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Spikehead.json"
+    },
+    "Spirithost": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Dark Elves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Spirithost.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Spirithost.json"
+    },
+    "Steadfast Marshal": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Banner Lords",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Steadfast_Marshal.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Steadfast_Marshal.json"
+    },
+    "Steel Bowyer": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Dark Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Steel_Bowyer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Steel_Bowyer.json"
+    },
+    "Stitched Beast": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Stitched_Beast.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Stitched_Beast.json"
+    },
+    "Stoneskin": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Ogryn Tribes",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Stoneskin.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Stoneskin.json"
+    },
+    "Stout Axeman": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Dwarves",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Stout_Axeman.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Stout_Axeman.json"
+    },
+    "Templar": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "The Sacred Order",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Templar.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Templar.json"
+    },
+    "Temptress": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Temptress.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Temptress.json"
+    },
+    "Theurgist": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Knight Revenant",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Theurgist.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Theurgist.json"
+    },
+    "Tormentor": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Demonspawn",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Tormentor.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Tormentor.json"
+    },
+    "Totem": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Orcs",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Totem.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Totem.json"
+    },
+    "Treefeller": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Orcs",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Treefeller.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Treefeller.json"
+    },
+    "Twinclaw Disciple": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Orcs",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Twinclaw_Disciple.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Twinclaw_Disciple.json"
+    },
+    "Valerie": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Banner Lords",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Valerie.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Valerie.json"
+    },
+    "Vanguard": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Banner Lords",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Vanguard.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Vanguard.json"
+    },
+    "Veteran": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Orcs",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Veteran.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Veteran.json"
+    },
+    "Wagonbane": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Ogryn Tribes",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Wagonbane.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Wagonbane.json"
+    },
+    "Wanderer": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Dark Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Wanderer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Wanderer.json"
+    },
+    "Warmaiden": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Warmaiden.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Warmaiden.json"
+    },
+    "Warpriest": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "The Sacred Order",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Warpriest.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Warpriest.json"
+    },
+    "Witness": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "The Sacred Order",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Witness.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Witness.json"
+    },
+    "Wretch": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Wretch.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Wretch.json"
+    },
+    "Wyvernbane": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Orcs",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Wyvernbane.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Wyvernbane.json"
+    },
+    "Admonitor": {
+      "rarity": "uncommon",
+      "affinity": "force",
+      "faction": "Knight Revenant",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Admonitor.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Admonitor.json"
+    },
+    "Archer": {
+      "rarity": "uncommon",
+      "affinity": "magic",
+      "faction": "Banner Lords",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Archer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Archer.json"
+    },
+    "Aristocrat": {
+      "rarity": "uncommon",
+      "affinity": "magic",
+      "faction": "High Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Aristocrat.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Aristocrat.json"
+    },
+    "Armiger": {
+      "rarity": "uncommon",
+      "affinity": "spirit",
+      "faction": "The Sacred Order",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Armiger.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Armiger.json"
+    },
+    "Battle Sister": {
+      "rarity": "uncommon",
+      "affinity": "magic",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Battle_Sister.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Battle_Sister.json"
+    },
+    "Brute": {
+      "rarity": "uncommon",
+      "affinity": "magic",
+      "faction": "Ogryn Tribes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Brute.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Brute.json"
+    },
+    "Chemist": {
+      "rarity": "uncommon",
+      "affinity": "magic",
+      "faction": "Dwarves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Chemist.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Chemist.json"
+    },
+    "Commander": {
+      "rarity": "uncommon",
+      "affinity": "force",
+      "faction": "Banner Lords",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Commander.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Commander.json"
+    },
+    "Crusader": {
+      "rarity": "uncommon",
+      "affinity": "force",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Crusader.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Crusader.json"
+    },
+    "Crusher": {
+      "rarity": "uncommon",
+      "affinity": "spirit",
+      "faction": "Barbarians",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Crusher.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Crusher.json"
+    },
+    "Cultist": {
+      "rarity": "uncommon",
+      "affinity": "force",
+      "faction": "Knight Revenant",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Cultist.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Cultist.json"
+    },
+    "Dead Crusader": {
+      "rarity": "uncommon",
+      "affinity": "force",
+      "faction": "Undead Hordes",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Dead_Crusader.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Dead_Crusader.json"
+    },
+    "Dervish": {
+      "rarity": "uncommon",
+      "affinity": "magic",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Dervish.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Dervish.json"
+    },
+    "Dhampir": {
+      "rarity": "uncommon",
+      "affinity": "spirit",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Dhampir.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Dhampir.json"
+    },
+    "Duelist": {
+      "rarity": "uncommon",
+      "affinity": "force",
+      "faction": "Banner Lords",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Duelist.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Duelist.json"
+    },
+    "Elfguard": {
+      "rarity": "uncommon",
+      "affinity": "spirit",
+      "faction": "High Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Elfguard.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Elfguard.json"
+    },
+    "Fireblade": {
+      "rarity": "uncommon",
+      "affinity": "spirit",
+      "faction": "Banner Lords",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Fireblade.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Fireblade.json"
+    },
+    "Frontline Warrior": {
+      "rarity": "uncommon",
+      "affinity": "spirit",
+      "faction": "Banner Lords",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Frontline_Warrior.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Frontline_Warrior.json"
+    },
+    "Frostskin": {
+      "rarity": "uncommon",
+      "affinity": "magic",
+      "faction": "Ogryn Tribes",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Frostskin.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Frostskin.json"
+    },
+    "Hardscale": {
+      "rarity": "uncommon",
+      "affinity": "magic",
+      "faction": "Lizardmen",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Hardscale.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Hardscale.json"
+    },
+    "Head Taker": {
+      "rarity": "uncommon",
+      "affinity": "magic",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Head_Taker.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Head_Taker.json"
+    },
+    "Heartpiercer": {
+      "rarity": "uncommon",
+      "affinity": "force",
+      "faction": "Dark Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Heartpiercer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Heartpiercer.json"
+    },
+    "Herald": {
+      "rarity": "uncommon",
+      "affinity": "spirit",
+      "faction": "Knight Revenant",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Herald.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Herald.json"
+    },
+    "Hungerer": {
+      "rarity": "uncommon",
+      "affinity": "force",
+      "faction": "Ogryn Tribes",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Hungerer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Hungerer.json"
+    },
+    "Incubus": {
+      "rarity": "uncommon",
+      "affinity": "force",
+      "faction": "Demonspawn",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Incubus.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Incubus.json"
+    },
+    "Intercessor": {
+      "rarity": "uncommon",
+      "affinity": "force",
+      "faction": "The Sacred Order",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Intercessor.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Intercessor.json"
+    },
+    "Jaeger": {
+      "rarity": "uncommon",
+      "affinity": "spirit",
+      "faction": "High Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Jaeger.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Jaeger.json"
+    },
+    "Lemure": {
+      "rarity": "uncommon",
+      "affinity": "magic",
+      "faction": "Demonspawn",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Lemure.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Lemure.json"
+    },
+    "Line Infantry": {
+      "rarity": "uncommon",
+      "affinity": "force",
+      "faction": "Dwarves",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Line_Infantry.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Line_Infantry.json"
+    },
+    "Militia": {
+      "rarity": "uncommon",
+      "affinity": "spirit",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Militia.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Militia.json"
+    },
+    "Oldbeard": {
+      "rarity": "uncommon",
+      "affinity": "force",
+      "faction": "Ogryn Tribes",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Oldbeard.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Oldbeard.json"
+    },
+    "Outlander": {
+      "rarity": "uncommon",
+      "affinity": "spirit",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Outlander.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Outlander.json"
+    },
+    "Outlaw Monk": {
+      "rarity": "uncommon",
+      "affinity": "force",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Outlaw_Monk.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Outlaw_Monk.json"
+    },
+    "Outrider": {
+      "rarity": "uncommon",
+      "affinity": "spirit",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Outrider.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Outrider.json"
+    },
+    "Pilgrim": {
+      "rarity": "uncommon",
+      "affinity": "force",
+      "faction": "The Sacred Order",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Pilgrim.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Pilgrim.json"
+    },
+    "Pit Cur": {
+      "rarity": "uncommon",
+      "affinity": "force",
+      "faction": "Demonspawn",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Pit_Cur.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Pit_Cur.json"
+    },
+    "Pit Fighter": {
+      "rarity": "uncommon",
+      "affinity": "force",
+      "faction": "Barbarians",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Pit_Fighter.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Pit_Fighter.json"
+    },
+    "Pitspawn": {
+      "rarity": "uncommon",
+      "affinity": "spirit",
+      "faction": "Demonspawn",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Pitspawn.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Pitspawn.json"
+    },
+    "Redeemer": {
+      "rarity": "uncommon",
+      "affinity": "force",
+      "faction": "Dark Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Redeemer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Redeemer.json"
+    },
+    "Ritualist": {
+      "rarity": "uncommon",
+      "affinity": "magic",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Ritualist.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Ritualist.json"
+    },
+    "Satyr": {
+      "rarity": "uncommon",
+      "affinity": "spirit",
+      "faction": "Skinwalkers",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Satyr.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Satyr.json"
+    },
+    "Saurus": {
+      "rarity": "uncommon",
+      "affinity": "spirit",
+      "faction": "Lizardmen",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Saurus.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Saurus.json"
+    },
+    "Sergeant": {
+      "rarity": "uncommon",
+      "affinity": "force",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Sergeant.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Sergeant.json"
+    },
+    "Sharpshooter": {
+      "rarity": "uncommon",
+      "affinity": "magic",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Sharpshooter.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Sharpshooter.json"
+    },
+    "Shieldguard": {
+      "rarity": "uncommon",
+      "affinity": "spirit",
+      "faction": "Barbarians",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Shieldguard.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Shieldguard.json"
+    },
+    "Skellag": {
+      "rarity": "uncommon",
+      "affinity": "force",
+      "faction": "Undead Hordes",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Skellag.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Skellag.json"
+    },
+    "Skinner": {
+      "rarity": "uncommon",
+      "affinity": "magic",
+      "faction": "Lizardmen",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Skinner.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Skinner.json"
+    },
+    "Skullsquire": {
+      "rarity": "uncommon",
+      "affinity": "force",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Skullsquire.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Skullsquire.json"
+    },
+    "Slicer": {
+      "rarity": "uncommon",
+      "affinity": "spirit",
+      "faction": "Dwarves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Slicer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Slicer.json"
+    },
+    "Sniper": {
+      "rarity": "uncommon",
+      "affinity": "magic",
+      "faction": "Dark Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Sniper.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Sniper.json"
+    },
+    "Spiritwalker": {
+      "rarity": "uncommon",
+      "affinity": "force",
+      "faction": "Barbarians",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Spiritwalker.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Spiritwalker.json"
+    },
+    "Squire": {
+      "rarity": "uncommon",
+      "affinity": "force",
+      "faction": "Banner Lords",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Squire.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Squire.json"
+    },
+    "Stalker": {
+      "rarity": "uncommon",
+      "affinity": "magic",
+      "faction": "Lizardmen",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Stalker.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Stalker.json"
+    },
+    "Stalwart": {
+      "rarity": "uncommon",
+      "affinity": "magic",
+      "faction": "Banner Lords",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Stalwart.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Stalwart.json"
+    },
+    "Thrasher": {
+      "rarity": "uncommon",
+      "affinity": "spirit",
+      "faction": "Ogryn Tribes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Thrasher.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Thrasher.json"
+    },
+    "Throatcutter": {
+      "rarity": "uncommon",
+      "affinity": "spirit",
+      "faction": "Orcs",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Throatcutter.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Throatcutter.json"
+    },
+    "Tracker": {
+      "rarity": "uncommon",
+      "affinity": "force",
+      "faction": "Orcs",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Tracker.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Tracker.json"
+    },
+    "Tunnel Steward": {
+      "rarity": "uncommon",
+      "affinity": "spirit",
+      "faction": "Dwarves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Tunnel_Steward.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Tunnel_Steward.json"
+    },
+    "Vigilante": {
+      "rarity": "uncommon",
+      "affinity": "spirit",
+      "faction": "The Sacred Order",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Vigilante.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Vigilante.json"
+    },
+    "Vilespawn": {
+      "rarity": "uncommon",
+      "affinity": "spirit",
+      "faction": "Demonspawn",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Vilespawn.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Vilespawn.json"
+    },
+    "Vulpine": {
+      "rarity": "uncommon",
+      "affinity": "force",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Vulpine.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Vulpine.json"
+    },
+    "Warchanter": {
+      "rarity": "uncommon",
+      "affinity": "magic",
+      "faction": "Orcs",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Warchanter.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Warchanter.json"
+    },
+    "Windtalker": {
+      "rarity": "uncommon",
+      "affinity": "magic",
+      "faction": "Skinwalkers",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Windtalker.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Windtalker.json"
+    },
+    "Word Bearer": {
+      "rarity": "uncommon",
+      "affinity": "magic",
+      "faction": "Banner Lords",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Word_Bearer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Word_Bearer.json"
+    },
+    "Zephyr Sniper": {
+      "rarity": "uncommon",
+      "affinity": "spirit",
+      "faction": "Barbarians",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Zephyr_Sniper.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Zephyr_Sniper.json"
+    },
+    "Axeman": {
+      "rarity": "common",
+      "affinity": "force",
+      "faction": "Banner Lords",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Axeman.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Axeman.json"
+    },
+    "Bandit": {
+      "rarity": "common",
+      "affinity": "spirit",
+      "faction": "Banner Lords",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Bandit.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Bandit.json"
+    },
+    "Bully": {
+      "rarity": "common",
+      "affinity": "spirit",
+      "faction": "Barbarians",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Bully.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Bully.json"
+    },
+    "Death Hound": {
+      "rarity": "common",
+      "affinity": "magic",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Death_Hound.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Death_Hound.json"
+    },
+    "Deathknight": {
+      "rarity": "common",
+      "affinity": "magic",
+      "faction": "Undead Hordes",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Deathknight.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Deathknight.json"
+    },
+    "Hellhound": {
+      "rarity": "common",
+      "affinity": "spirit",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Hellhound.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Hellhound.json"
+    },
+    "Knecht": {
+      "rarity": "common",
+      "affinity": "spirit",
+      "faction": "The Sacred Order",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Knecht.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Knecht.json"
+    },
+    "Lurker": {
+      "rarity": "common",
+      "affinity": "magic",
+      "faction": "Dark Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Lurker.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Lurker.json"
+    },
+    "Magekiller": {
+      "rarity": "common",
+      "affinity": "spirit",
+      "faction": "Dark Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Magekiller.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Magekiller.json"
+    },
+    "Novitiate": {
+      "rarity": "common",
+      "affinity": "spirit",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Novitiate.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Novitiate.json"
+    },
+    "Pikeman": {
+      "rarity": "common",
+      "affinity": "magic",
+      "faction": "Banner Lords",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Pikeman.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Pikeman.json"
+    },
+    "Preacher": {
+      "rarity": "common",
+      "affinity": "force",
+      "faction": "The Sacred Order",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Preacher.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Preacher.json"
+    },
+    "Ranger": {
+      "rarity": "common",
+      "affinity": "force",
+      "faction": "Dark Elves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Ranger.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Ranger.json"
+    },
+    "Sister Militant": {
+      "rarity": "common",
+      "affinity": "force",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Sister_Militant.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Sister_Militant.json"
+    },
+    "Swordsman": {
+      "rarity": "common",
+      "affinity": "magic",
+      "faction": "Banner Lords",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Swordsman.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Swordsman.json"
+    },
+    "Thrall": {
+      "rarity": "common",
+      "affinity": "magic",
+      "faction": "Knight Revenant",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Thrall.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Thrall.json"
+    },
+    "Troglodyte": {
+      "rarity": "common",
+      "affinity": "spirit",
+      "faction": "Lizardmen",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Troglodyte.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Troglodyte.json"
+    },
+    "Warboy": {
+      "rarity": "common",
+      "affinity": "magic",
+      "faction": "Orcs",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Warboy.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Warboy.json"
+    },
+    "Yeoman": {
+      "rarity": "common",
+      "affinity": "magic",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Yeoman.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Yeoman.json"
+    },
+    "King Garog": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Orcs",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/King_Garog.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/King_Garog.json"
+    },
+    "Roxam": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Lizardmen",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Roxam.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Roxam.json"
+    },
+    "Thea the Tomb Angel": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Knight Revenant",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Thea_the_Tomb_Angel.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Thea_the_Tomb_Angel.json"
+    },
+    "Yakarl the Scourge": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Yakarl_the_Scourge.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Yakarl_the_Scourge.json"
+    },
+    "Alaric the Hooded": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Banner Lords",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Alaric_the_Hooded.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Alaric_the_Hooded.json"
+    },
+    "Anax": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Undead Hordes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Anax.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Anax.json"
+    },
+    "Armina": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Armina.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Armina.json"
+    },
+    "Fahrakin the Fat": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Fahrakin_the_Fat.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Fahrakin_the_Fat.json"
+    },
+    "Gerhard the Stone": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Banner Lords",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Gerhard_the_Stone.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Gerhard_the_Stone.json"
+    },
+    "Haarken Greatblade": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Haarken_Greatblade.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/HaarkenvGreatblade.json"
+    },
+    "Inquisitor Shamael": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "The Sacred Order",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Inquisitor_Shamael.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Inquisitor_Shamael.json"
+    },
+    "Rugnor Goldgleam": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Dwarves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Rugnor_Goldgleam.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Rugnor_Goldgleam.json"
+    },
+    "Dagger": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Banner Lords",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Dagger.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Dagger.json"
+    },
+    "Kurzad Deepheart": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Dwarves",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Kurzad_Deepheart.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Kurzad_Deepheart.json"
+    },
+    "Panthera": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Skinwalkers",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Panthera.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Panthera.json"
+    },
+    "Pigsticker": {
+      "rarity": "rare",
+      "affinity": "magic",
+      "faction": "Orcs",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Pigsticker.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Pigsticker.json"
+    },
+    "Ruffstone": {
+      "rarity": "rare",
+      "affinity": "force",
+      "faction": "Ogryn Tribes",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Ruffstone.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Ruffstone.json"
+    },
+    "Tigersoul": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Tigersoul.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Tigersoul.json"
+    },
+    "Icebound Prospector": {
+      "rarity": "uncommon",
+      "affinity": "force",
+      "faction": "Dwarves",
+      "role": "force",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Icebound_Prospector.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Icebound_Prospector.json"
+    },
+    "Sandbow": {
+      "rarity": "uncommon",
+      "affinity": "spirit",
+      "faction": "Barbarians",
+      "role": "attack",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Sandbow.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Sandbow.json"
+    },
+    "Iron Brago": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Orcs",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Iron_Brago.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Iron_Brago.json"
+    },
+    "Nekhret the Great": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Undead Hordes",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Nekhret_the_Great.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Nekhret_the_Great.json"
+    },
+    "Akoth the Seared": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Demonspawn",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Akoth_the_Seared.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Akoth_the_Seared.json"
+    },
+    "Balthus Drauglord": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Undead Hordes",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Balthus_Drauglord.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Balthus_Drauglord.json"
+    },
+    "Dhukk the Pierced": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Orcs",
+      "role": "defense",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Dhukk_the_Pierced.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Dhukk_the_Pierced.json"
+    },
+    "Tikthaa Blackscale": {
+      "rarity": "legendary",
+      "affinity": "spirit",
+      "faction": "Lizardmen",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Tikthaa_Blackscale.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Tikthaa_Blackscale.json"
+    },
+    "Urost the Soulcage": {
+      "rarity": "legendary",
+      "affinity": "void",
+      "faction": "Undead Hordes",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Urost_the_Soulcage.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Urost_the_Soulcage.json"
+    },
+    "Bergoth the Malformed": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Knight Revenant",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Bergoth_the_Malformed.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Bergoth_the_Malformed.json"
+    },
+    "Melga Steelgirdle": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Dwarves",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Melga_Steelgirdle.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Melga_Steelgirdle.json"
+    },
+    "Vogoth": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Undead Hordes",
+      "role": "hp",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Vogoth.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Vogoth.json"
+    },
+    "Geargrinder": {
+      "rarity": "rare",
+      "affinity": "void",
+      "faction": "Ogryn Tribes",
+      "role": "rare",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Geargrinder.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Geargrinder.json"
+    },
+    "Gomlok Skyhide": {
+      "rarity": "legendary",
+      "affinity": "force",
+      "faction": "Orcs",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Gomlok_Skyhide.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Gomlok_Skyhide.json"
+    },
+    "Kreela Witch-Arm": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "Orcs",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Kreela_Witch-Arm.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Kreela_Witch-Arm.json"
+    },
+    "Pyxniel": {
+      "rarity": "legendary",
+      "affinity": "magic",
+      "faction": "High Elves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Pyxniel.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Pyxniel.json"
+    },
+    "Achak the Wendarin": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Demonspawn",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Achak_the_Wendarin.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Achak_the_Wendarin.json"
+    },
+    "Aox the Rememberer": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Lizardmen",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Aox_the_Rememberer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Aox_the_Rememberer.json"
+    },
+    "Archmage Hellmut": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Banner Lords",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Archmage_Hellmut.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Archmage_Hellmut.json"
+    },
+    "Chancellor Yasmin": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Banner Lords",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Chancellor_Yasmin.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Chancellor_Yasmin.json"
+    },
+    "Crowned Druid": {
+      "rarity": "epic",
+      "affinity": "spirit",
+      "faction": "Lizardmen",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Crowned_Druid.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Crowned_Druid.json"
+    },
+    "Grunch Killjoy": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Ogryn Tribes",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Grunch_Killjoy.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Grunch_Killjoy.json"
+    },
+    "Old Hermit Jorrg": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Orcs",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Old_Hermit_Jorrg.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Old_Hermit_Jorrg.json"
+    },
+    "Rector Drath": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Knight Revenant",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Rector_Drath.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Rector_Drath.json"
+    },
+    "Rian the Conjurer": {
+      "rarity": "epic",
+      "affinity": "force",
+      "faction": "Dark Elves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Rian_the_Conjurer.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Rian_the_Conjurer.json"
+    },
+    "Sanguinia": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "The Sacred Order",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Sanguinia.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Sanguinia.json"
+    },
+    "Ursala the Mourner": {
+      "rarity": "epic",
+      "affinity": "void",
+      "faction": "Banner Lords",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Ursala_the_Mourner.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Ursala_the_Mourner.json"
+    },
+    "Uugo": {
+      "rarity": "epic",
+      "affinity": "magic",
+      "faction": "Ogryn Tribes",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Uugo.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Uugo.json"
+    },
+    "Gloril Brutebane": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Dwarves",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Gloril_Brutebane.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Gloril_Brutebane.json"
+    },
+    "Wandering Priest": {
+      "rarity": "rare",
+      "affinity": "spirit",
+      "faction": "Barbarians",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Wandering_Priest.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Wandering_Priest.json"
+    },
+    "Suntribe": {
+      "rarity": "uncommon",
+      "affinity": "magic",
+      "faction": "Orcs",
+      "role": "support",
+      "avatarUrl": "https://patpat1567.github.io/RaidShadowLegendsData/images/avatar/Suntribe.png",
+      "detailsUrl": "https://patpat1567.github.io/RaidShadowLegendsData/champion-details/Suntribe.json"
+    }
+}
